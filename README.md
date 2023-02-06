@@ -1,6 +1,6 @@
 # UserActivitySimuatorPowerShell
 
-A PowerShell script to simulate user activity on a PC, thus preventing the "away status" on corporate laptops.
+A PowerShell script to simulate user activity on a PC, thus preventing the "away status" on laptops.
 
 ## Getting Started
 These instructions will get you a copy of the script on your local machine for development and testing purposes.
